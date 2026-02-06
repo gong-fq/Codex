@@ -1,0 +1,25 @@
+{
+  "name": "codex-usage-app",
+  "version": "1.0.0",
+  "description": "Codex 用法 - 从 Vibe Coding 到 SDD 的学习 App",
+  "main": "index.html",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "AI",
+    "coding",
+    "codex",
+    "SDD",
+    "vibe-coding",
+    "learning"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
